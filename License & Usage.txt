@@ -1,0 +1,24 @@
+## 📜 License & Usage
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**  
+with an **additional clause** granting **exclusive commercial rights** to the original author.
+
+> You are free to **use**, **share**, **modify**, and **build upon** this work —  
+> as long as you give **appropriate credit** and use it for **non-commercial purposes only**.
+
+Full license: [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
+
+### 🚫 Additional Clause: Exclusive Commercial Rights
+
+Commercial use of any kind — including but not limited to selling, licensing, manufacturing, or integrating into commercial products or services — is **strictly prohibited** for third parties.
+
+**Only the original author** is permitted to use this project or its derivatives for commercial purposes.
+
+> **© 2025 Nikola Turing**  
+> For commercial licensing inquiries, please contact the author via GitHub or the official project page.
+
+---
+
+**TL;DR**  
+✅ You may remix, improve, and use this project for personal and educational purposes.  
+❌ You may **not** sell it, produce it commercially, or profit from it in any way — unless you are the original creator.
